@@ -28,14 +28,13 @@ This project is a Jeopardy-style buzzer system using ESP8266 and nRF24L01 module
 3. **Clear Round**: Press the clear button again to reset the system for the next round.
 
 ## Schematics and Diagrams
-- Include your schematics and diagrams here.
+- Included in PCB folder.
 
 ## License
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests.
 
 ## Acknowledgments
 - Inspiration from Jeopardy-style quiz games.
-- Community contributions and feedback.
